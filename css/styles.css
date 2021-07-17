@@ -7,7 +7,7 @@ h1 {
   font-family: 'Gugi', cursive;
   font-weight: bolder;
   text-align: center;
-  color: whitesmoke;
+  color: rgb(8, 226, 81);
   margin-bottom: 0px;
   margin-top: 10px;
   padding-bottom: 2px;
@@ -16,7 +16,7 @@ h1 {
   
 }
 .page-footer{
-  background-color: rgba(9, 13, 221, 0.8); 
+  background-color: rgba(25, 26, 100, 0.8); 
   width: 100%;
 }
 .overlay{
@@ -27,14 +27,14 @@ h1 {
   border-radius: 10px;
 }
 #get{
-  color: whitesmoke;
+  color: rgb(34, 14, 146);
   text-shadow: 2px 2px 5px black;
   margin-bottom: 10px;
 }
 h2{
   text-align: center;
   font-weight: bold;
-  color:rgb(255, 255, 255);
+  color:rgb(224, 22, 191);
   font-family: 'Quattrocento', serif;
 }
 .form{
@@ -42,13 +42,13 @@ h2{
   padding-bottom: 20px;
 }
 .form-group{
-  color: rgb(255, 255, 255);
+  color: rgb(39, 16, 172);
   font-weight: 600;
   font-size: 18px;
   font-family: 'Quattrocento', serif;
 }
 .form-check-label{
-  color: rgb(255, 255, 255);
+  color: rgb(216, 8, 199);
 }
 input[type="radio"] {
   -webkit-transform: scale(1.5);
@@ -83,7 +83,7 @@ input[type="radio"] {
   margin-top: -10px;
 }
 .card{
-  background: rgb(204, 12, 146);
+  background: rgb(59, 161, 90);
 }
 .card-body{
   color: rgb(27, 13, 233);

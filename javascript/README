@@ -41,11 +41,11 @@ Enter century of birth eg 20 for 2019,
      Input Example 21
      Output Example 21
 
-* Enter month of birth eg 17 for october
+* Enter month of birth eg 10 for october
     Input example 10
     Output example 10
 
-* Enter Date of the month you were born in eg 20
+* Enter Date of the month you were born in eg 17
     input example 17
     output example 17
 
@@ -77,4 +77,4 @@ True value is output. Output example: **You were born on Sunday and Your akan na
 If you have any question or contributions, please email me at [62tonnblair@gmail.com]
 
 ## License
-* Copyright (c) 2019 **Tonny Blair**
+* Copyright (c) 2021 **Tonny Blair**

@@ -75,7 +75,7 @@ True value is output. Output example: **You were born on Sunday and Your akan na
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [62tonnblair@gmail.com]
+If you have any question or contributions, please email me at [62tonnyblair@gmail.com]
 
 ## License
 * Copyright (c) 2019 **Tonny Blair**
